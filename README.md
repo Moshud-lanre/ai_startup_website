@@ -25,5 +25,8 @@ The project involves step-by-step project to simulate workflow of Tom and Jerry 
 
 - 1. Tom's PR : ![tom_pr](screenshots/tom-pr.png)
 - 2. Tom's PR merge : ![tom_pr_merge](screenshots/tom-pr-merge.png)
-- 3. Jerry's PR: ![jerry_pr](screenshots/jerry-pr.png)
-- 4. Jerry's PR merge: ![jerry_pr_merge](screenshots/jerry-pr-merge.png)
+- 3. Brach Update and Synchronization ![branch_update](screenshots/jerry-git-pull.png)
+- 4. Jerry's PR: ![jerry_pr](screenshots/jerry-pr.png)
+- 5. Jerry's PR merge: ![jerry_pr_merge](screenshots/jerry-pr-merge.png)
+
+project repo link :https://github.com/Moshud-lanre/ai_startup_website
