@@ -12,12 +12,11 @@ The project involves step-by-step project to simulate workflow of Tom and Jerry 
 - First commit - ![first_commit](screenshots/03-index-first-change.png)
 
 ### Part 2: Simulating Tom and Jerry's Work
-- 1. Tom's Work:
-    - create branch ![update-navigation-branch](screenshots/05-git-branch.png)
-    - Content update ![index_update](screenshots/06-tom-change.png)
-    - Commit and push update ![push_update](screenshots/07-tom-change-push.png)
-- 2. Jerry's Work
-    - create new branch [!contact-info-branch](screenshots/08-pull-update.png)
-    - update index file ![contact-info-update](screenshots/09-jerry-updade-push.png)
 
-     
+- 1. Tom's Work:
+  - create branch ![update-navigation-branch](screenshots/05-git-branch.png)
+  - Content update ![index_update](screenshots/06-tom-change.png)
+  - Commit and push update ![push_update](screenshots/07-tom-change-push.png)
+- 2. Jerry's Work
+  - create new branch ![contact-info-branch](screenshots/08-pull-update.png)
+  - update index file ![contact-info-update](screenshots/09-jerry-updade-push.png)
